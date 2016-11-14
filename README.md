@@ -1,5 +1,4 @@
 # MyGovBC-core-client
-x
 This is MyGovBC client-side core AngularJS app. It is scaffolded using [angular-webpack-es6](https://github.com/stukh/generator-angular-webpack-es6) yeoman generator with following webpack customizations:
 
 1. Support less
