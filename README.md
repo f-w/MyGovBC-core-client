@@ -133,7 +133,7 @@ When you make a change to a model/API on the `MyGovBC-core-server`, you'll need 
 cd <path to>\MyGovBC-core-client\
 lb-ng <path to>\MyGovBC-core-server\server\server.js src\app\core\services\lb-services.js
 ```
-x
+
 ## License
 
     Copyright 2016 Province of British Columbia
